@@ -17,4 +17,4 @@ Customizable: You can tweak the output to fit your style.
 Disclaimer
 The program tries its best to write well, but it might not always be perfect. You might need to make some changes to make it just right for your readers.
 
-Thanks for checking out the Blog Generator LLM! Happy blogging! 🦙📝
+Thanks for checking out the Blog Generator LLM!
